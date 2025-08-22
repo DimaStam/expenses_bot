@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+python-dotenv
+assemblyai
+gspread
+oauth2client
+openai
