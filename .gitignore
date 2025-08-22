@@ -1,3 +1,5 @@
 .env
 dima-wydatki-*.json
 venv/
+__pycache__/
+*.pyc
